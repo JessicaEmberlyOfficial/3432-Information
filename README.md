@@ -1,3 +1,5 @@
+**Educational Purposes Only**
+
 **3432** is a global revolution party native to the U.S., and our goal is to fight fascism head-on.
 
 # We do that by:
