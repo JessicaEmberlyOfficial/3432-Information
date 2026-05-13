@@ -44,13 +44,21 @@ Giving Housing to those who were wronged.
 
 APITA Files is a database of all of those who we are against (the wrong doers):
 • Trump Supporters
+
 • ICE Supporters
+
 • ICE Agents
+
 • PDF(s)
+
 • Grapists
+
 • Transphobes
+
 • Intersexphobes
+
 • Homophobes
+
 • Enbyphobes
 
 You can use the link [APITAFiles](apitafiles.com/apitafiles) to access the database, and we use QR codes to avoid takedowns so use this link qrscanner.net to open the link from a screenshot.
