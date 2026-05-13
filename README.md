@@ -1,38 +1,46 @@
 **3432** is a global revolution party native to the U.S., and our goal is to fight fascism head-on.
 
 # We do that by:
-• Tarnishing Propaganda by rewriting truthfully through media influence.
+```
+Tarnishing Propaganda by rewriting truthfully through media influence.
 
-• Giving back to those who were wronged.
+Giving back to those who were wronged.
 
-• On-Foot soldiers to protect the community.
+On-Foot soldiers to protect the community.
 
-• Help guide those affected by the regime to safety using APITA Files.
+Help guide those affected by the regime to safety using APITA Files.
 
-• Monitoring ICE.
+Monitoring ICE.
+```
 
 # Operations:
+```
 OP-AP – The tarnishing of propagated information.
 
 OP-RF – Giving back to those affected by the regime (food, funding, and housing).
 
 OP-M – The monitoring of ICE.
+```
 
 # Media Influence is:
-• Radio
+```
+Radio
 
-• Posters
+Posters
 
-• Graffiti
+Graffiti
 
-• Slap Tags
+Slap Tags
+```
 
 # Giving back is:
-• Funding those who were wronged by the regime.
+```
+Funding those who were wronged by the regime.
 
-• Giving canned foods to those who were wronged (either locally, or online via shipment).
+Giving canned foods to those who were wronged (either locally, or online via shipment).
 
-• Giving Housing to those who were wronged.
+Giving Housing to those who were wronged.
+```
 
 APITA Files is a database of all of those who we are against (the wrong doers):
 • Trump Supporters
