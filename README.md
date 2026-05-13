@@ -70,4 +70,4 @@ You can use the link [APITAFiles](https://www.apitafiles.com/apitafiles) to acce
 
 If you want to join–contact [me](https://www.facebook.com/share/18bnFWHZCV/).
 
-If you are affected by the regime please message us at: apitafilms@gmail.com
+If you are affected by the regime please message us at: [apitafilms@gmail.com](mailto:apitafilms@gmail.com)
